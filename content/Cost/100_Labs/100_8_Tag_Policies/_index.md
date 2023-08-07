@@ -34,7 +34,7 @@ AWS Cost Explorer and Cost and Usage Report provide the ability to break down AW
 
 ## Prerequisites
 - [AWS Account Setup]({{< ref "100_1_AWS_Account_Setup" >}}) has been completed
--	AWS organization must have all features enabled - If you aren’t sure if all features is enabled, please reference [this](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_org_support-all-features.html") documentation.
+-	AWS organization must have all features enabled - If you aren’t sure if all features is enabled, please reference [this](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_org_support-all-features.html) documentation.
 -	Must be signed into organization's Management account
 
 
